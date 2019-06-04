@@ -1,0 +1,15 @@
+.kitty {
+  float:left;
+}
+
+.row {
+  width: 100%;
+}
+
+.kitty-showing {
+  display: none;
+
+}
+.kitty-hide {
+  display: block;
+}
